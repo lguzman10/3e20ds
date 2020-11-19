@@ -9,5 +9,7 @@ function PowerSet(conjunto)
 
 console.log(PowerSet(s));
 
+console.log("la complejidad computacional es lineal");
+
 
 
