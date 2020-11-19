@@ -20,3 +20,5 @@ function combinaciones(list) {
     }
 
 console.log(combinaciones(s)); 
+
+console.log("Complejidad computacional : cuadratica");
