@@ -25,6 +25,8 @@ function permutaciones(n)
 
 console.log(permutaciones(s));
 
+console.log("la complejidad computacional es lineal");
+
 
 
 
