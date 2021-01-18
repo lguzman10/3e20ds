@@ -23,4 +23,5 @@ function mergeSort(array) {
 }
 
 array = [15, 42, 79, 0, 1, 23, -10, 2, 8, 90, 1234, 456, -3];
-console.log("Array ordenado: " + "\n" + mergeSort(array));
+console.log("\nArray original: " + array);
+console.log("\nArray ordenado: " + mergeSort(array));
